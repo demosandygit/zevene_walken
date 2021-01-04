@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30278" started-at="2021-01-04T23:21:52 IST" finished-at="2021-01-04T23:22:22 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30278" started-at="2021-01-04T23:21:52 IST" finished-at="2021-01-04T23:22:22 IST">
+      <class name="com.ebanking.zevene_walken.Login">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.ebanking.zevene_walken.Login@10bbd20a]" name="login" duration-ms="30125" started-at="2021-01-04T23:21:52 IST" finished-at="2021-01-04T23:22:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.ebanking.zevene_walken.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
